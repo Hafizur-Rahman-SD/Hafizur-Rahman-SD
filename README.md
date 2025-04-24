@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [Hafizur-Rahman-SD](https://github.com/Hafizur-Rahman-SD/Hafizur-Rahman-SD)
 
-- 🌱 I’m currently learning **Burger Course**
+- 🌱 I’m currently learning in **Aoutheast University**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Hafizur-Rahman-SD](https://github.com/Hafizur-Rahman-SD)
 
