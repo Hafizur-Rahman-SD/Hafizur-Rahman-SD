@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning in **Southeast University**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Hafizur-Rahman-SD](https://github.com/Hafizur-Rahman-SD)
+- 👨‍💻 All of my projects are available at https://portfolio-website-blue-seven-66.vercel.app/projects.html
 
 - 💬 Ask me about **anything**
 
