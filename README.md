@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [Hafizur-Rahman-SD](https://github.com/Hafizur-Rahman-SD/Hafizur-Rahman-SD)
 
-- 🌱 I’m currently learning in **Southeast University**
+- 🌱 I’m currently learning in **Southeast University** https://seu.edu.bd/
 
 - 👨‍💻 All of my projects are available at https://portfolio-website-blue-seven-66.vercel.app/projects.html
 
