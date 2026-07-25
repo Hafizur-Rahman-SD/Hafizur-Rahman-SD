@@ -10,13 +10,19 @@
 
 - 👨‍💻 All of my projects are available at https://portfolio-website-blue-seven-66.vercel.app/projects.html
 
-- 💬 Ask me about **anything**
+- 💬Ask me about
+
+• JavaScript
+• React
+• Next.js
+• Node.js
+• MongoDB etc 
 
 - 📫 How to reach me **hafizurrahman5004@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/hafizur-rahman-5583b2206/](https://www.linkedin.com/in/hafizur-rahman-5583b2206/)
 
-- ⚡ Fun fact **I think I am Funny.**
+- Always learning and building real-world projects.
 
 
 <h3 align="left">Connect with me:</h3>
