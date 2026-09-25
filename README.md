@@ -56,31 +56,7 @@
     />
   </picture>
 </p>
-:::
+```:::```
 
-### Your README should look like this
 
-```text
-README.md
-
-<p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="./dark_mode.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="./light_mode.svg"
-    />
-    <img
-      src="./dark_mode.svg"
-      alt="Hafizur Rahman GitHub profile card"
-      width="100%"
-    />
-  </picture>
-</p>
-
-[rest of your README content...]
-```
 
