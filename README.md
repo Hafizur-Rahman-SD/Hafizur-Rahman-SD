@@ -1,4 +1,33 @@
 
+<p align="center">
+  <picture>
+    <!-- Dark mode -->
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="./dark_mode.svg"
+    />
+
+```
+<!-- Light mode -->
+<source
+  media="(prefers-color-scheme: light)"
+  srcset="./light_mode.svg"
+/>
+
+<!-- Fallback -->
+<img
+  src="./dark_mode.svg"
+  alt="Hafizur Rahman GitHub profile card"
+  width="100%"
+/>
+```
+
+  </picture>
+</p>
+
+
+
+
 <h1 align="center">Hi 👋, I'm Hafizur Rahman</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
