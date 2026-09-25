@@ -1,30 +1,50 @@
 
+You should have **only this**:
+
+:::writing{variant="document" id="74126" title="GitHub README Dark/Light SVG"}
 <p align="center">
   <picture>
-    <!-- Dark mode -->
     <source
       media="(prefers-color-scheme: dark)"
       srcset="./dark_mode.svg"
     />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="./light_mode.svg"
+    />
+    <img
+      src="./dark_mode.svg"
+      alt="Hafizur Rahman GitHub profile card"
+      width="100%"
+    />
+  </picture>
+</p>
+:::
 
-```
-<!-- Light mode -->
-<source
-  media="(prefers-color-scheme: light)"
-  srcset="./light_mode.svg"
-/>
+### Your README should look like this
 
-<!-- Fallback -->
-<img
-  src="./dark_mode.svg"
-  alt="Hafizur Rahman GitHub profile card"
-  width="100%"
-/>
-```
+```text
+README.md
 
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="./dark_mode.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="./light_mode.svg"
+    />
+    <img
+      src="./dark_mode.svg"
+      alt="Hafizur Rahman GitHub profile card"
+      width="100%"
+    />
   </picture>
 </p>
 
+[rest of your README content...]
 
 
 
